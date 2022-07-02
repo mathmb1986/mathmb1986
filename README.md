@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mathmb1986
 - 👀 I’m interested in ... Game Design 
 - 🌱 I’m currently learning ... lua C# C++
-- 💞️ I’m looking to collaborate on ... BuildGameCompagny lol
+- 💞️ I’m looking to collaborate on ... Build GameCompagny
 - 📫 How to reach me ...
 
 <!---
